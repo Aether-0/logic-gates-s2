@@ -1,4 +1,5 @@
 # Logic Gate Cheat Sheet
+## Made with love by San Wana
 
 Logic gates are fundamental building blocks of digital circuits. They perform basic logical functions based on the input signals they receive. Here's a cheat sheet outlining the basic types of logic gates:
 

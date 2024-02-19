@@ -79,5 +79,5 @@ Logic gates are fundamental building blocks of digital circuits. They perform ba
 | 1 | 0 |   0    |
 | 1 | 1 |   0    |
 
-### Here the link to practical
+### Here the link for practical
 **Link:** https://ceucomputing.github.io/logicsim2/
